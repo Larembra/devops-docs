@@ -14,5 +14,4 @@
 Адрес будущего сайта: `https://larembra.github.io/devops-docs/`.
 
 
-[Контрольная битая ссылка](missing-page.md)
 
